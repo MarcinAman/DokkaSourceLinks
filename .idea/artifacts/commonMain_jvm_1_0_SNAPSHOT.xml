@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="commonMain-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/commonMain/build/libs</output-path>
+    <root id="archive" name="commonMain-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
