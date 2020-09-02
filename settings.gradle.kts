@@ -1,5 +1,5 @@
-include("jvmMain")
-include("commonMain")
+include("subA")
+include("subB")
 
 pluginManagement {
     repositories {
